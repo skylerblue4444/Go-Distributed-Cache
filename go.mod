@@ -1,0 +1,1 @@
+module go-distributed-cache\n\ngo 1.21\n
